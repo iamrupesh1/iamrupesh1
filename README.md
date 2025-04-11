@@ -1,11 +1,13 @@
-# Learning Today, Leading Tomorrow  
+# Welcome to    my GitHub space! 🙏  
+
 ⚔️ I'm Rupesh Kumar Shah! ⚔️
 
-👉**Learning. Building. Growing.**👈
+✅**Learning. Building. Growing.**
 
 ![Welcome GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-Welcome to my GitHub space! 🙏  
+👉Learning Today, Leading Tomorrow  
+
 I'm currently exploring the world of **technology, coding, and real-world applications**.
 
 ## 🚀 About Me  
