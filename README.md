@@ -1,22 +1,30 @@
-# Welcome to    my GitHub space! 🙏  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5BF7F7&width=435&lines=Hi+there!+I'm+Rupesh+Kumar+Shah;Tech+Explorer+|+AI+Lover+|+BCA+Student" alt="Typing SVG" />
+</p>
 
-⚔️ I'm Rupesh Kumar Shah! ⚔️
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iamrupesh1&color=blueviolet">
+  <img src="https://img.shields.io/badge/Open%20to-Internships-yellowgreen">
+  <img src="https://img.shields.io/badge/Currently%20Learning-Cloud%20%26%20Linux-blue">
+</p>
 
-✅**Learning. Building. Growing.**
-
-![Welcome GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
-👉Learning Today, Leading Tomorrow  
-
-I'm currently exploring the world of **technology, coding, and real-world applications**.
-
+---
 ## 🚀 About Me  
 - 🎓 BCA Student | Tech Learner  
 - 🤖 Passionate about AI, Cybersecurity & Tech Innovations  
-- 💡 Focused on learning **Python**, **Networking**, **Linux**, and **Cloud Basics**  
-- ✨ Always curious to build, break, and learn!
+- ✨ Curious to build, break, and learn!
 
-## ⚒️ Tech Stack  
+![Welcome GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+
+👉 *Learning Today, Leading Tomorrow*  
+
+Currently exploring the world of **technology, coding, and real-world applications**.
+
+
+---
+
+## 🧰 Languages & Tools  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)  
@@ -27,11 +35,41 @@ I'm currently exploring the world of **technology, coding, and real-world applic
 
 ---
 
-> *"Stay curious. Keep building. Trust the process."*
+## 📚 My Learning Path 💡
+
+- Strengthening programming skills in **Python**, **Java**, and **C**
+- Practicing **Linux commands** and working in terminal environments
+- Exploring **Cloud Fundamentals** (AWS, GCP basics)
+- Understanding **Cybersecurity Concepts** and ethical hacking basics
+- Learning **Networking fundamentals** (IP, DNS, OSI model)
+- Getting comfortable with **Git**, **GitHub**, and version control
+
+> Building a strong tech foundation before jumping into real-world projects!
+
+---
+
+## 📊 GitHub Stats  
+
+![Rupesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamrupesh1&show_icons=true&theme=tokyonight&count_private=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=iamrupesh1&theme=tokyonight)](https://git.io/streak-stats)
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iamrupesh1&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+---
+
+<h3 align="center">Let's Connect!</h3>
+
+<p align="center">
+  <a href="mailto:shahrupesh511@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/rupesh-kumar-shah-691458292"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/rupesh_shah_450?igsh=aGtoc2JrbmpwbThr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</p>
+
+---
+
+> *"Stay curious. Keep building. Trust the process."*  
 
 ![Cool Coding GIF](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)
 
-## 📫 Connect with Me  
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shahrupesh511@gmail.com)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/rupesh_shah_450?igsh=aGtoc2JrbmpwbThr)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rupesh-kumar-shah-691458292)
+✅**Learning. Building. Growing.**  
