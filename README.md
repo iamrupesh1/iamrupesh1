@@ -12,7 +12,7 @@
 
 ## 🚀 About Me  
 - 🎓 BCA Final-Year Student | Aspiring AI/ML Engineer  
-- 🤖 Passionate about **Artificial Intelligence, Machine Learning, and Data Science**  
+- 🤖 Passionate about **Artificial Intelligence and Machine Learning, **  
 - ✨ Exploring real-world AI/ML projects to strengthen practical skills  
 
 ![Welcome GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
@@ -24,12 +24,34 @@ Currently focusing on **AI/ML, Python programming, Data Structures, Algorithms, 
 ---
 
 ## 🧰 Languages & Tools  
+
+### Programming & Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
+
+### Data Science & AI/ML
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=plotly&logoColor=blue)  
+![Seaborn](https://img.shields.io/badge/Seaborn-76B900?style=flat&logo=python&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  
+
+### Data Visualization & Analytics
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=power-bi&logoColor=black)  
+
+### Cloud & Deployment
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)  
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
 
 ---
 
@@ -39,8 +61,10 @@ Currently focusing on **AI/ML, Python programming, Data Structures, Algorithms, 
 - Learning **Machine Learning algorithms, Data Mining, and AI concepts**  
 - Practicing **Data Structures and Algorithms** for problem-solving  
 - Building **real-world AI/ML projects** to apply theory  
-- Exploring **Python libraries**: Pandas, NumPy, Scikit-learn, Matplotlib  
-- Understanding **Data Analysis and Model Evaluation**  
+- Exploring **Python libraries**: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch  
+- Understanding **Data Analysis, Visualization, and Model Evaluation**  
+- Learning **deployment skills** with Streamlit, Flask, and Docker  
+- Exploring **Cloud Platforms (AWS, GCP)** for AI/ML model deployment  
 
 > Focused on building a strong AI/ML portfolio for internships and future opportunities!
 
