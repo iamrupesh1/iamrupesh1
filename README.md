@@ -25,10 +25,15 @@ Currently focusing on **AI/ML, Python programming, Data Structures, Algorithms, 
 ## 🧰 Skills & Tools  
 
 **Programming & Core:** Python | Java | C | SQL | Git | GitHub | Linux | Bash/Shell Scripting  
+
 **Data Science & AI/ML:** NumPy | Pandas | Matplotlib | Seaborn | Scikit-learn | TensorFlow | PyTorch | NLP | Hugging Face Transformers  
+
 **Data Visualization & Analytics:** Excel | Power BI | Tableau | Plotly  
+
 **Cloud & Deployment:** AWS | GCP | Streamlit | Flask | Docker | REST APIs | FastAPI | Heroku | GitHub Actions  
+
 **Database & Data Engineering:** MySQL | PostgreSQL | MongoDB | SQLite | ETL Basics | Apache Airflow (Basics)  
+
 **Other Tools & Utilities:** Jupyter Notebook | VS Code | Anaconda | Google Colab | Postman | MLflow (Basic)  
 
 
