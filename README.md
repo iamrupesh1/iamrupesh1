@@ -12,7 +12,7 @@
 
 ## 🚀 About Me  
 - 🎓 BCA Final-Year Student | Aspiring AI/ML Engineer  
-- 🤖 Passionate about **Artificial Intelligence and Machine Learning, **  
+- 🤖 Passionate about **Artificial Intelligence and Machine Learning**  
 - ✨ Exploring real-world AI/ML projects to strengthen practical skills  
 
 ![Welcome GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
@@ -20,22 +20,20 @@
 👉 *Learning Today, Building Tomorrow*  
 
 Currently focusing on **AI/ML, Python programming, Data Structures, Algorithms, and Data Mining**, while leveraging BCA subjects to build a strong foundation for intelligent systems.
-  
 
 ## 🧰 Skills & Tools  
 
-**Programming & Core:** Python | Java | C | SQL | Git | GitHub | Linux | Bash/Shell Scripting  
+-**Programming & Core:** Python | Java | C | SQL | Git | GitHub | Linux | Bash/Shell Scripting  
 
-**Data Science & AI/ML:** NumPy | Pandas | Matplotlib | Seaborn | Scikit-learn | TensorFlow | PyTorch | NLP | Hugging Face Transformers  
+-**Data Science & AI/ML:** NumPy | Pandas | Matplotlib | Seaborn | Scikit-learn | TensorFlow | PyTorch | spaCy | NLTK | Hugging Face Transformers  
 
-**Data Visualization & Analytics:** Excel | Power BI | Tableau | Plotly  
+-**Data Visualization & Analytics:** Excel | Power BI | Tableau | Plotly  
 
-**Cloud & Deployment:** AWS | GCP | Streamlit | Flask | Docker | REST APIs | FastAPI | Heroku | GitHub Actions  
+-**Cloud & Deployment:** AWS | GCP | Streamlit | Flask | Docker | REST API frameworks (FastAPI) | Heroku | GitHub Actions  
 
-**Database & Data Engineering:** MySQL | PostgreSQL | MongoDB | SQLite | ETL Basics | Apache Airflow (Basics)  
+-**Database & Data Engineering:** MySQL | PostgreSQL | MongoDB | SQLite | ETL Basics | Apache Airflow (Basics)  
 
-**Other Tools & Utilities:** Jupyter Notebook | VS Code | Anaconda | Google Colab | Postman | MLflow (Basic)  
-
+-**Other Tools & Utilities:** Jupyter Notebook | VS Code | Anaconda | Google Colab | Postman | MLflow (Basics)  
 
 ## 📚 My AI/ML Learning Path 💡
 
