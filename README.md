@@ -19,13 +19,13 @@
 
 👉 *Learning Today, Building Tomorrow*  
 
-Currently focusing on **AI/ML, Python programming, Data Structures, Algorithms, and Data Mining**, while leveraging BCA subjects to build a strong foundation for intelligent systems.
+Currently focusing on **AI/ML, Python programming, Data Structures, Algorithms, and Data Mining**, while leveraging BCA to build a strong foundation for intelligent systems.
 
 ## 🧰 Skills & Tools  
 
 -**Programming & Core:** Python | Java | C | SQL | Git | GitHub | Linux | Bash/Shell Scripting  
 
--**Data Science & AI/ML:** NumPy | Pandas | Matplotlib | Seaborn | Scikit-learn | TensorFlow | PyTorch | spaCy | NLTK | Hugging Face Transformers  
+-**Data Science & AI/ML:** NumPy | Pandas | Matplotlib | Seaborn | Scikit-learn | TensorFlow | PyTorch | NLP| Hugging Face Transformers  
 
 -**Data Visualization & Analytics:** Excel | Power BI | Tableau | Plotly  
 
