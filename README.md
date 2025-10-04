@@ -19,34 +19,35 @@
 
 👉 *Learning Today, Building Tomorrow*  
 
-Currently focusing on **AI/ML, Python programming, Data Structures, Algorithms, and Data Mining**, while leveraging BCA to build a strong foundation for intelligent systems.
+Currently advancing my skills in AI/ML, Python, Data Structures, Algorithms, and Data Mining to develop practical expertise in intelligent systems.
 
-## 🧰 Skills & Tools  
+## 🧰 Skills & Tools
 
--**Programming & Core:** Python | Java | C | SQL | Git | GitHub | Linux | Bash/Shell Scripting  
+**Programming & Core:** Python (Intermediate) | Java (Basic) | C (Basic) | SQL (Intermediate) | Git | GitHub | Linux | Bash/Shell Scripting  
 
--**Data Science & AI/ML:** NumPy | Pandas | Matplotlib | Seaborn | Scikit-learn | TensorFlow | PyTorch | NLP| Hugging Face Transformers  
+**Data Science & AI/ML:** NumPy | Pandas | Matplotlib | Seaborn | Scikit-learn | TensorFlow | PyTorch | NLP | Hugging Face Transformers  
 
--**Data Visualization & Analytics:** Excel | Power BI | Tableau | Plotly  
+**Data Visualization & Analytics:** Excel | Power BI | Tableau | Plotly  
 
--**Cloud & Deployment:** AWS | GCP | Streamlit | Flask | Docker | REST API frameworks (FastAPI) | Heroku | GitHub Actions  
+**Cloud & Deployment:** AWS | GCP | Streamlit | Flask | Docker | FastAPI | Heroku | GitHub Actions  
 
--**Database & Data Engineering:** MySQL | PostgreSQL | MongoDB | SQLite | ETL Basics | Apache Airflow (Basics)  
+**Database & Data Engineering:** MySQL | PostgreSQL | MongoDB | SQLite | ETL Basics | Apache Airflow (Basics)  
 
--**Other Tools & Utilities:** Jupyter Notebook | VS Code | Anaconda | Google Colab | Postman | MLflow (Basics)  
+**Other Tools & Utilities:** Jupyter Notebook | VS Code | Anaconda | Google Colab | Postman | MLflow (Basics)
 
-## 📚 My AI/ML Learning Path 💡
 
-- Strengthening programming skills in **Python, Java, and C**  
-- Learning **Machine Learning algorithms, Data Mining, and AI concepts**  
-- Practicing **Data Structures and Algorithms** for problem-solving  
-- Building **real-world AI/ML projects** to apply theory  
-- Exploring **Python libraries**: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch  
-- Understanding **Data Analysis, Visualization, and Model Evaluation**  
-- Learning **deployment skills** with Streamlit, Flask, and Docker  
-- Exploring **Cloud Platforms (AWS, GCP)** for AI/ML model deployment  
 
-> Focused on building a strong AI/ML portfolio for internships and future opportunities!
+
+## 🏆 Certifications & Job Simulations
+
+- [30-Day SQL & Power BI Micro Courses](https://github.com/iamrupesh1) – SQL queries, dashboards, data visualization  
+- [Machine Learning using Python – Simplilearn](https://www.linkedin.com/posts/rupesh-kumar-shah-691458292_ai-foundation-machine-learning-using-python-activity-7379939411603415040-CD4x?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEbm3s0ByFvagN4gJ4vQhhGpk1mzGWfLD6g) – Practical ML projects & algorithms  
+- [AI Foundations – Simplilearn](https://www.linkedin.com/posts/rupesh-kumar-shah-691458292_ai-foundation-machine-learning-using-python-activity-7379939411603415040-CD4x?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEbm3s0ByFvagN4gJ4vQhhGpk1mzGWfLD6g) – AI & ML concepts, real-world applications  
+- [Career Essentials in Generative AI – Microsoft & LinkedIn](https://www.linkedin.com/posts/rupesh-kumar-shah-691458292_certificate-of-completion-activity-7257100048067354624-eSAg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEbm3s0ByFvagN4gJ4vQhhGpk1mzGWfLD6g) – Generative AI concepts  
+- [Docker Fundamentals](https://learn.cantrill.io/courses/enrolled/1951081) – Containers, Dockerfiles, Docker Compose  
+- [AWS Solutions Architecture Simulation](https://github.com/iamrupesh1/aws-solutions-architecture-simulation) – Cloud infrastructure design, cost optimization, deployment
+- [15-Day Medical Coding Training](https://www.linkedin.com/posts/rupesh-kumar-shah-691458292_medical-coding-certification-activity-7289652911561678849-k7_k?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEbm3s0ByFvagN4gJ4vQhhGpk1mzGWfLD6g) – ICD-10, CPT, HCPCS  
+- [Mastercard Cybersecurity Simulation](https://github.com/iamrupesh1/mastercard-cybersecurity-simulation) – Phishing simulations, awareness training, risk analysis  
 
 ---
 
@@ -60,6 +61,13 @@ Currently focusing on **AI/ML, Python programming, Data Structures, Algorithms, 
 
 ---
 
+> *"Stay curious. Keep building. Trust the process."*  
+
+![Cool Coding GIF](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)
+
+✅ **Learning. Building. Growing in AI/ML.**
+
+
 <h3 align="center">Let's Connect!</h3>
 
 <p align="center">
@@ -68,9 +76,3 @@ Currently focusing on **AI/ML, Python programming, Data Structures, Algorithms, 
 </p>
 
 ---
-
-> *"Stay curious. Keep building. Trust the process."*  
-
-![Cool Coding GIF](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)
-
-✅ **Learning. Building. Growing in AI/ML.**
