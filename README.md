@@ -40,7 +40,7 @@ Currently advancing my skills in AI/ML, Python, Data Structures, Algorithms, and
 
 ## 🏆 Certifications & Job Simulations
 
-- [30-Day SQL & Power BI Micro Courses](https://github.com/iamrupesh1) – SQL queries, dashboards, data visualization  
+- [30-Day SQL & Power BI Micro Courses](https://github.com/iamrupesh1/SQL---power-BI-micro-course) – SQL queries, dashboards, data visualization  
 - [Machine Learning using Python – Simplilearn](https://www.linkedin.com/posts/rupesh-kumar-shah-691458292_ai-foundation-machine-learning-using-python-activity-7379939411603415040-CD4x?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEbm3s0ByFvagN4gJ4vQhhGpk1mzGWfLD6g) – Practical ML projects & algorithms  
 - [AI Foundations – Simplilearn](https://www.linkedin.com/posts/rupesh-kumar-shah-691458292_ai-foundation-machine-learning-using-python-activity-7379939411603415040-CD4x?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEbm3s0ByFvagN4gJ4vQhhGpk1mzGWfLD6g) – AI & ML concepts, real-world applications  
 - [Career Essentials in Generative AI – Microsoft & LinkedIn](https://www.linkedin.com/posts/rupesh-kumar-shah-691458292_certificate-of-completion-activity-7257100048067354624-eSAg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEbm3s0ByFvagN4gJ4vQhhGpk1mzGWfLD6g) – Generative AI concepts  
