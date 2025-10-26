@@ -19,7 +19,7 @@
 
 👉 *Learning Today, Building Tomorrow*  
 
-Currently advancing my skills in AI/ML, Python, Data Structures, Algorithms, and Data Mining to develop practical expertise in intelligent systems.
+Currently advancing my skills in AI/ML, Python, Data Structures, Algorithms,Gen AI and Agentic AI to develop practical expertise in intelligent systems.
 
 ## 🧰 Skills & Tools
 
