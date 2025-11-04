@@ -40,12 +40,12 @@
 
 | **Category** | **Tools & Technologies** |
 |--------------:|:------------------------|
-| 💻 **Programming** | Python 🐍 · Java (Basics) · SQL |
-| 🤖 **AI / Machine Learning** | Machine Learning · Deep Learning · NLP · Generative AI · LLMs · Agentic AI |
-| 🧩 **Libraries / Frameworks** | TensorFlow · PyTorch · Scikit-learn · Hugging Face · OpenCV · Streamlit · Flask · FastAPI |
-| 📊 **Data & Visualization** | NumPy · Pandas · Matplotlib · Seaborn · Power BI · |
-| ☁️ **Deployment / Cloud** | AWS (EC2, S3) · Docker · Streamlit Cloud ·|
-| ⚙️ **Tools & Workflow** | Git · GitHub · Jupyter Notebook · VS Code · Google Colab |
+| 💻 **Programming** | Python 🐍, Java (Basics), SQL |
+| 🤖 **AI / Machine Learning** | Machine Learning, Deep Learning, NLP, Neural network, Generative AI, LLMs, Agentic AI |
+| 🧩 **Libraries / Frameworks** | TensorFlow, PyTorch, Scikit-learn, Hugging Face, OpenCV, Streamlit, Flask, FastAPI |
+| 📊 **Data & Visualization** | NumPy, Pandas, Matplotlib, Seaborn, Power BI |
+| ☁️ **Deployment / Cloud** | AWS (EC2, S3), Docker, Streamlit Cloud |
+| ⚙️ **Tools & Workflow** | Git, GitHub, Jupyter Notebook, VS Code, Google Colab |
 
 
 
