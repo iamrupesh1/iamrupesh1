@@ -9,31 +9,44 @@
 </p>
 
 ---
+<p align="center">
+  <a href="https://www.youtube.com/@AIwithRupesh" target="_blank">
+    <img src="https://img.shields.io/badge/🎥%20Click%20Here%20to%20Visit%20My%20YouTube%20Channel%20-%20AI%20with%20Rupesh-00FFFF?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0D1117" alt="AI with Rupesh YouTube Channel" />
+  </a>
+</p>
+
 
 ## 🚀 About Me  
 - 🎓 BCA Final-Year Student | Aspiring AI/ML Engineer  
-- 🤖 Passionate about **Artificial Intelligence and Machine Learning**  
-- ✨ Exploring real-world AI/ML projects to strengthen practical skills  
+- 🤖 Passionate about **Artificial Intelligence, Machine Learning & Agentic AI**  
+- ✨ Exploring real-world AI/ML projects to strengthen practical skills
+
 
 ![Welcome GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 👉 *Learning Today, Building Tomorrow*  
 
-Currently advancing my skills in AI/ML, Python, Data Structures, Algorithms,Gen AI and Agentic AI to develop practical expertise in intelligent systems.
 
-## 🧰 Skills & Tools
+**Currently focused on mastering:**
+- 🧠 Machine Learning & Deep Learning  
+- 🗣️ NLP & Generative AI  
+- ⚙️ MLOps, Docker & Cloud Deployment  
+- 🤝 Agentic AI (Autonomous AI Systems)
 
-**Programming & Core:** Python (Intermediate) | Java (Basic) | C (Basic) | SQL (Intermediate) | Git | GitHub | Linux | Bash/Shell Scripting  
+  
+---
 
-**Data Science & AI/ML:** NumPy | Pandas | Matplotlib | Seaborn | Scikit-learn | TensorFlow | PyTorch | NLP | Hugging Face Transformers  
+## 🧰 Tech Stack
 
-**Data Visualization & Analytics:** Excel | Power BI | Tableau | Plotly  
+| **Category** | **Tools & Technologies** |
+|--------------:|:------------------------|
+| 💻 **Programming** | Python 🐍 · Java (Basics) · SQL |
+| 🤖 **AI / Machine Learning** | Machine Learning · Deep Learning · NLP · Generative AI · LLMs · Agentic AI |
+| 🧩 **Libraries / Frameworks** | TensorFlow · PyTorch · Scikit-learn · Hugging Face · OpenCV · Streamlit · Flask · FastAPI |
+| 📊 **Data & Visualization** | NumPy · Pandas · Matplotlib · Seaborn · Power BI · |
+| ☁️ **Deployment / Cloud** | AWS (EC2, S3) · Docker · Streamlit Cloud ·|
+| ⚙️ **Tools & Workflow** | Git · GitHub · Jupyter Notebook · VS Code · Google Colab |
 
-**Cloud & Deployment:** AWS | GCP | Streamlit | Flask | Docker | FastAPI | Heroku | GitHub Actions  
-
-**Database & Data Engineering:** MySQL | PostgreSQL | MongoDB | SQLite | ETL Basics | Apache Airflow (Basics)  
-
-**Other Tools & Utilities:** Jupyter Notebook | VS Code | Anaconda | Google Colab | Postman | MLflow (Basics)
 
 
 
@@ -53,12 +66,18 @@ Currently advancing my skills in AI/ML, Python, Data Structures, Algorithms,Gen 
 
 ## 📊 GitHub Stats  
 
-![Rupesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamrupesh1&show_icons=true&theme=tokyonight&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamrupesh1&show_icons=true&theme=radical&count_private=true&hide_border=true" height="165px" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrupesh1&layout=compact&theme=radical&hide_border=true" height="165px" alt="Top Languages" />
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=iamrupesh1&theme=tokyonight)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=iamrupesh1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iamrupesh1&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamrupesh1&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
+</p>
 ---
 
 > *"Stay curious. Keep building. Trust the process."*  
@@ -72,7 +91,9 @@ Currently advancing my skills in AI/ML, Python, Data Structures, Algorithms,Gen 
 
 <p align="center">
   <a href="mailto:shahrupesh511@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/rupesh-kumar-shah-691458292"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/rupesh-kumar-shah-691458292"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+   <a href="https://www.youtube.com/@AIwithRupesh"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  </a>
 </p>
 
 ---
