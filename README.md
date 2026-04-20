@@ -53,6 +53,7 @@
 
 ## 🏆 Certifications & Job Simulations
 
+- [Microsoft Certified: Azure AI Fundamentals] (https://www.credly.com/badges/8bb17b78-c1a6-4f6f-8ba5-7bd72091072d/public_url)
 - [30-Day SQL & Power BI Micro Courses](https://github.com/iamrupesh1/SQL---power-BI-micro-course) – SQL queries, dashboards, data visualization  
 - [Machine Learning using Python – Simplilearn](https://www.linkedin.com/posts/rupesh-kumar-shah-691458292_ai-foundation-machine-learning-using-python-activity-7379939411603415040-CD4x?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEbm3s0ByFvagN4gJ4vQhhGpk1mzGWfLD6g) – Practical ML projects & algorithms  
 - [AI Foundations – Simplilearn](https://www.linkedin.com/posts/rupesh-kumar-shah-691458292_ai-foundation-machine-learning-using-python-activity-7379939411603415040-CD4x?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEbm3s0ByFvagN4gJ4vQhhGpk1mzGWfLD6g) – AI & ML concepts, real-world applications  
